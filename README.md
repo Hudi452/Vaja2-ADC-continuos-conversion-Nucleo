@@ -1,4 +1,9 @@
 # Vaja2-ADC-continuos-conversion-Nucleo
+PINOUT KONFIGURACIJA:\
+![pinout](https://github.com/Hudi452/Vaja2-ADC-continuos-conversion-Nucleo/blob/main/Izrezek%20pinout.png)
+
+SLIKA KONFIGURACIJSKIH OKEN:
+
 
 ODGOVORI NA VPRAŠANJA:
 
