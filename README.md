@@ -10,7 +10,7 @@ d)ADC1_IN1
 
 e)Spremenijo se frekvence od HCLK in APB1 Prescaler
 
-g)Preskalirana vrednost je sedaj 4MHz.
+g)Preskalirana vrednost je sedaj 4MHz (f_preskalirana = 16 MHz/4 = 4 MHz).
 
 i)t_vz_ciklih = 247,5     
 
