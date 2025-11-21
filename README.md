@@ -9,8 +9,8 @@ SLIKI KONFIGURACIJSKIH OKEN:\
 FOTOGRAFIJA VEZAVE:\
 ![vezje](https://github.com/Hudi452/Vaja2-ADC-continuos-conversion-Nucleo/blob/main/Slika%20vezja.PNG)
 
-VIDEO DELOVANJA:
-
+VIDEO DELOVANJA:\
+![video](https://github.com/Hudi452/Vaja2-ADC-continuos-conversion-Nucleo/blob/main/Vaja2%20-%20video.gif)
 
 ODGOVORI NA VPRAŠANJA:\
 b)Pod Analog so 3 ADC pretvorniki.\
