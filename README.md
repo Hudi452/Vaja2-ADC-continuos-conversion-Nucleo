@@ -6,7 +6,8 @@ SLIKI KONFIGURACIJSKIH OKEN:\
 ![konfig1](https://github.com/Hudi452/Vaja2-ADC-continuos-conversion-Nucleo/blob/main/Izrezek%20konfiguracijskega%20okna1.png)\
 ![konfig2](https://github.com/Hudi452/Vaja2-ADC-continuos-conversion-Nucleo/blob/main/Izrezek%20konfiguracijskega%20okna2.png)
 
-FOTOGRAFIJA VEZAVE:
+FOTOGRAFIJA VEZAVE:\
+![vezje](https://github.com/Hudi452/Vaja2-ADC-continuos-conversion-Nucleo/blob/main/Slika%20vezja.PNG)
 
 VIDEO DELOVANJA:
 
