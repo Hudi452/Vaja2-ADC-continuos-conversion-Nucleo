@@ -2,8 +2,9 @@
 PINOUT KONFIGURACIJA:\
 ![pinout](https://github.com/Hudi452/Vaja2-ADC-continuos-conversion-Nucleo/blob/main/Izrezek%20pinout.png)
 
-SLIKA KONFIGURACIJSKIH OKEN:
-![konfig1](https://github.com/Hudi452/Vaja2-ADC-continuos-conversion-Nucleo/blob/main/Izrezek%20konfiguracijskega%20okna1.png)
+SLIKI KONFIGURACIJSKIH OKEN:\
+![konfig1](https://github.com/Hudi452/Vaja2-ADC-continuos-conversion-Nucleo/blob/main/Izrezek%20konfiguracijskega%20okna1.png)\
+![konfig2](https://github.com/Hudi452/Vaja2-ADC-continuos-conversion-Nucleo/blob/main/Izrezek%20konfiguracijskega%20okna2.png)
 
 ODGOVORI NA VPRAŠANJA:
 
